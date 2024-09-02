@@ -1,6 +1,3 @@
-<!--Banner-->
-![szalfa banner image](https://pin.it/2timYKBKj)
-
 ## Hi there 👋
 
 <!--
